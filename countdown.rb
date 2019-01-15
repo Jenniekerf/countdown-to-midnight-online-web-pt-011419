@@ -9,5 +9,6 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(sleep)
+def countdown_with_sleep(num_secs)
+  countdown_with_sleep(5)
 end
